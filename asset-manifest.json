@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Travel/static/css/main.6b90edb0.css",
-    "main.js": "/Travel/static/js/main.0ac32f60.js",
-    "static/media/background.png": "/Travel/static/media/background.06fe2cea8ab7cb8b510f.png",
-    "static/media/asia.png": "/Travel/static/media/asia.14ee5a4116c6c8c6599a.png",
-    "static/media/europe.png": "/Travel/static/media/europe.0354d6f5903305fbff02.png",
-    "static/media/oceania.png": "/Travel/static/media/oceania.30def5807f3b0034e2f0.png",
-    "static/media/africa.png": "/Travel/static/media/africa.ac9233c01417e46b78aa.png",
-    "static/media/america.png": "/Travel/static/media/america.360e8a5c88d921ce81e3.png",
-    "index.html": "/Travel/index.html",
-    "main.6b90edb0.css.map": "/Travel/static/css/main.6b90edb0.css.map",
-    "main.0ac32f60.js.map": "/Travel/static/js/main.0ac32f60.js.map"
+    "main.css": "/Travels/static/css/main.872d0d4b.css",
+    "main.js": "/Travels/static/js/main.2efc2dd9.js",
+    "static/media/background.png": "/Travels/static/media/background.06fe2cea8ab7cb8b510f.png",
+    "static/media/asia.png": "/Travels/static/media/asia.14ee5a4116c6c8c6599a.png",
+    "static/media/europe.png": "/Travels/static/media/europe.0354d6f5903305fbff02.png",
+    "static/media/oceania.png": "/Travels/static/media/oceania.30def5807f3b0034e2f0.png",
+    "static/media/africa.png": "/Travels/static/media/africa.ac9233c01417e46b78aa.png",
+    "static/media/america.png": "/Travels/static/media/america.360e8a5c88d921ce81e3.png",
+    "index.html": "/Travels/index.html",
+    "main.872d0d4b.css.map": "/Travels/static/css/main.872d0d4b.css.map",
+    "main.2efc2dd9.js.map": "/Travels/static/js/main.2efc2dd9.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b90edb0.css",
-    "static/js/main.0ac32f60.js"
+    "static/css/main.872d0d4b.css",
+    "static/js/main.2efc2dd9.js"
   ]
 }
